@@ -1,0 +1,24 @@
+    # Friday AI 🤖
+
+Friday AI is a personal voice assistant project built using Python on Ubuntu Linux.
+
+## Features
+- Voice commands
+- Open applications
+- Take screenshots
+- Text-to-speech
+- Speech recognition
+- AI chatbot support
+
+## Technologies Used
+- Python
+- PyAutoGUI
+- SpeechRecognition
+- Piper TTS
+- Linux Ubuntu
+
+## Installation
+
+Clone the repository:
+
+```bash
